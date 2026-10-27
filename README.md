@@ -14,6 +14,17 @@
 
 ---
 
+## At a glance
+
+| | |
+|---|---|
+| **Name** | Salah Hamid |
+| **Based in** | Libya |
+| **Focus** | Arabic-first developer tooling · AI agents · Windows desktop apps |
+| **Languages** | Arabic · English |
+| **Building** | [AAS Skills Studio](https://github.com/Salahman91/aas-skills-studio) — 2,750 agentic skills, bilingual |
+| **Open to** | Collaboration, feedback, feature requests on the project above |
+
 ## What I'm building
 
 Most developer tooling is written for English speakers first, and Arabic support is

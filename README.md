@@ -14,6 +14,16 @@
 
 ---
 
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/Salahman91/aas-skills-studio?style=flat-square&color=5eead4)
+![Last commit](https://img.shields.io/github/last-commit/Salahman91/aas-skills-studio?style=flat-square&color=a78bfa)
+![Build](https://github.com/Salahman91/aas-skills-studio/actions/workflows/build.yml/badge.svg)
+![Issues](https://img.shields.io/github/issues/Salahman91/aas-skills-studio?style=flat-square&color=7dd3fc)
+![Platform](https://img.shields.io/badge/platform-Windows-0b0d12?style=flat-square)
+
+</div>
+
 ## At a glance
 
 | | |
@@ -75,6 +85,15 @@ Contributions are welcome — issues and pull requests are read.
 - ⭐ **Just want to help visibility?** A star and a share go a long way
 
 Look for [`good first issue`](https://github.com/Salahman91/aas-skills-studio/labels/good%20first%20issue) and [`help wanted`](https://github.com/Salahman91/aas-skills-studio/labels/help%20wanted).
+
+## Selected work
+
+| Repository | What it is | Stack |
+|---|---|---|
+| [**aas-skills-studio**](https://github.com/Salahman91/aas-skills-studio) | Bilingual desktop browser for 2,750 agentic skills | Python · tkinter · PyInstaller |
+| [**Salahman91**](https://github.com/Salahman91/Salahman91) | This profile | Markdown |
+
+Open source, MIT licensed, no telemetry.
 
 ## Stack
 

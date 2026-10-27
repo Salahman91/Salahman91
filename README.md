@@ -1,55 +1,95 @@
 <div align="center">
 
-# Salahman91
+# Salah Hamid
 
-**Building Arabic-first developer tooling for AI agents.**
+### I build Arabic-first developer tooling for AI agents.
 
-[![AAS Skills Studio](https://img.shields.io/badge/Featured-AAS%20Skills%20Studio-5eead4?style=for-the-badge)](https://github.com/Salahman91/aas-skills-studio)
-[![Release](https://img.shields.io/github/v/release/Salahman91/aas-skills-studio?style=for-the-badge&color=a78bfa)](https://github.com/Salahman91/aas-skills-studio/releases/latest)
+[![AAS Skills Studio](https://img.shields.io/badge/AAS%20Skills%20Studio-2%2C750%20skills-5eead4?style=for-the-badge)](https://github.com/Salahman91/aas-skills-studio)
+[![Release](https://img.shields.io/github/v/release/Salahman91/aas-skills-studio?style=for-the-badge&color=a78bfa&label=latest)](https://github.com/Salahman91/aas-skills-studio/releases/latest)
+[![License](https://img.shields.io/badge/license-MIT-8b94a7?style=for-the-badge)](https://github.com/Salahman91/aas-skills-studio/blob/main/LICENSE)
+
+**SJH** · Windows tooling · Arabic UX · offline-first
 
 </div>
 
 ---
 
-## نبذة
+## What I'm building
 
-أبني أدوات مطوّرين **بالعربية أولاً** لبيئات عمل الوكلاء (AI agents): واجهات RTL أصلية،
-بحث يفهم اللغة الطبيعية، وتكامل مباشر مع الأدوات التي يستخدمها المطوّرون يومياً.
+Most developer tooling is written for English speakers first, and Arabic support is
+bolted on later — reversed text, broken spacing, untranslated menus.
+I build the opposite: **Arabic as the primary interface**, English as the second.
 
-## Featured project
-
-### [AAS Skills Studio](https://github.com/Salahman91/aas-skills-studio)
-
-متصفّح سطح مكتب ثنائي اللغة (عربي / إنجليزي) لمكتبة **2,750 مهارة** من مستودع
-[`agentic-awesome-skills`](https://github.com/sickn33/agentic-awesome-skills) — بحث ذكي
-بالعربية، اختيار متعدد، وتنزيل مباشر إلى مجلد مهارات أداتك.
-
-| | |
-|---|---|
-| **Skills** | 2,750 في 9 مجموعات و23 قسماً |
-| **Search** | بحث عربي محلي + إعادة ترتيب اختيارية عبر Gemini |
-| **Targets** | AutoClaw · Antigravity · Claude Code · Codex · Cursor · OpenCode · Kiro · AdaL · Autohand |
-| **Platform** | Windows · ملف تنفيذي واحد · بدون تبعيات |
-
-[![Repo](https://img.shields.io/badge/Source-code-0b0d12?style=flat-square&logo=github)](https://github.com/Salahman91/aas-skills-studio)
-[![Download](https://img.shields.io/badge/Download-latest%20release-5eead4?style=flat-square)](https://github.com/Salahman91/aas-skills-studio/releases/latest)
-[![Docs](https://img.shields.io/badge/Docs-README-a78bfa?style=flat-square)](https://github.com/Salahman91/aas-skills-studio#readme)
+My current project makes a library of 2,750 AI-agent skills usable from an Arabic
+desktop app — browse, search in plain Arabic, and install into the tool you already use.
 
 ---
 
-## ما يهمّني
+## ⭐ Featured: AAS Skills Studio
 
-- **العربية أولاً**: واجهات RTL حقيقية لا ترقيعية، ونصوص تقنية مفهومة.
-- **أدوات تعمل دون اتصال**: البحث والتصفّح محليان، والإنترنت للتحميل فقط.
-- **شفافية**: أوصاف صريحة، بصمات SHA-256 لكل إصدار، وحدود موثّقة.
+> A bilingual (Arabic / English) Windows desktop browser for the
+> [`agentic-awesome-skills`](https://github.com/sickn33/agentic-awesome-skills) library.
+
+| | |
+|---|---|
+| **Catalog** | 2,750 skills in 9 groups and 23 subsections |
+| **Search** | Natural-language Arabic search (offline) + optional Gemini reranking with per-skill reasons |
+| **Install** | 12 targets — AutoClaw, Antigravity, Claude Code, Codex, Gemini CLI, Cursor, OpenCode, Kiro, AdaL, Autohand, OpenClaw, custom folder |
+| **Interface** | Native RTL Arabic and English, one toggle, no restart of the OS |
+| **Build** | Single portable `.exe` · Python standard library only · no runtime dependencies |
+
+<div align="center">
+
+[![Star the repo](https://img.shields.io/badge/⭐%20Star-aas--skills--studio-5eead4?style=for-the-badge)](https://github.com/Salahman91/aas-skills-studio)
+[![Download](https://img.shields.io/badge/⬇%20Download-latest%20release-a78bfa?style=for-the-badge)](https://github.com/Salahman91/aas-skills-studio/releases/latest)
+[![Read the docs](https://img.shields.io/badge/📖%20Docs-README-0b0d12?style=for-the-badge)](https://github.com/Salahman91/aas-skills-studio#readme)
+
+</div>
+
+---
+
+## Currently
+
+- 🔭 Extending the catalog pipeline: automated Arabic quality checks for all 2,750 descriptions
+- 🌍 Making the UI fully translatable beyond Arabic and English
+- 🧩 Exploring a plugin-style adapter for more agent tools
+
+## How to contribute
+
+Contributions are welcome — issues and pull requests are read.
+
+- 🐛 **Found a bug?** Open a [bug report](https://github.com/Salahman91/aas-skills-studio/issues/new?template=bug_report.yml)
+- 💡 **Have an idea?** Open a [feature request](https://github.com/Salahman91/aas-skills-studio/issues/new?template=feature_request.yml)
+- 🌐 **Better Arabic wording?** Edit `data/skills.json` or the translations — that is the highest-value help right now
+- ⭐ **Just want to help visibility?** A star and a share go a long way
+
+Look for [`good first issue`](https://github.com/Salahman91/aas-skills-studio/labels/good%20first%20issue) and [`help wanted`](https://github.com/Salahman91/aas-skills-studio/labels/help%20wanted).
 
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3.14-0b0d12?style=flat-square&logo=python)
 ![tkinter](https://img.shields.io/badge/tkinter-stdlib-0b0d12?style=flat-square)
 ![Windows](https://img.shields.io/badge/Windows-11-0b0d12?style=flat-square&logo=windows)
-![Git](https://img.shields.io/badge/Git-workflow-0b0d12?style=flat-square&logo=git)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-one--file-0b0d12?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-0b0d12?style=flat-square&logo=githubactions)
+
+---
+
+<div dir="rtl" align="right">
+
+## بالعربية
+
+**صلاح حميد** — أبني أدوات مطوّرين تضع العربية في المقدمة، لا كترجمة لاحقة.
+
+مشروعي الحالي: تطبيق سطح مكتب عربي/إنجليزي يتيح تصفّح **2750 مهارة** جاهزة
+لوكلاء الذكاء الاصطناعي، والبحث بالعربية الطبيعية، وتنزيل المهارة إلى مجلد أداتك
+بضغطة واحدة.
+
+- ⭐ إن أعجبك المشروع، نجمة واحدة تساعد غيرك على اكتشافه.
+- 🐛 البلاغات والاقتراحات مرحّب بها عبر Issues.
+- 🌐 تحسين الصياغة العربية من أكثر المساهمات قيمةً حالياً.
+
+</div>
 
 ---
 
@@ -57,6 +97,6 @@
 
 **Open to collaboration on Arabic dev-tooling and agent workflows.**
 
-[GitHub](https://github.com/Salahman91) · [AAS Skills Studio](https://github.com/Salahman91/aas-skills-studio)
+[GitHub](https://github.com/Salahman91) · [AAS Skills Studio](https://github.com/Salahman91/aas-skills-studio) · [Releases](https://github.com/Salahman91/aas-skills-studio/releases/latest)
 
 </div>
